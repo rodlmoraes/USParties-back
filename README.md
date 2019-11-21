@@ -1,2 +1,2 @@
 # USParties
-App para analisar potencial lucro ao vender ingressos de festas da USP
+App para vender ingressos de festas da USP
